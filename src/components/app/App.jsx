@@ -1,4 +1,4 @@
-import Feedback from "../../feedback/Feedback";
+import Feedback from "../feedback/Feedback";
 import Options from "../../options/Options";
 import Notification from "../../notification/Notification";
 import Description from "../../description/Description";
